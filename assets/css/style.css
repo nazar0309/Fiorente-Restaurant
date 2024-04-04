@@ -33,7 +33,7 @@ h1, h2 {
 
 a {
     color: #E9E9E9;
-
+    transition: box-shadow 0.3s;
     text-decoration: none;
 }
 .navbar {
@@ -60,6 +60,7 @@ a {
     font-weight: 400;
     font-size: 100px;
     line-height: 75px;
+    transition: font-size 0.3s;
 }
 
 .logo > p {
@@ -67,6 +68,10 @@ a {
     font-size: 30px;
     line-height: 5px;
     
+}
+
+.logo > h1:hover {
+    font-size: 115px;
 }
 
 #menuhead {
@@ -85,17 +90,18 @@ a {
 }
 
 #menuhead > p {
+    line-height: 45px;
     transform: rotate(10deg);
     font-weight: 600;
+    border: 2px solid #fafafa;
+    border-radius: 50%;
+}
+
+.box-shadow:active {
+    box-shadow: 0 2px 4px rgba(255, 254, 254, 0.5);
 }
 
 
-#border {
-    border: 2px solid #6F5748;
-    width:200.33px;
-    height: 60.83px;
-    border-radius: 60%;
-}
 
 
 
