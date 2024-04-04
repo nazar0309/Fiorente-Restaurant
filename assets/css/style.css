@@ -9,7 +9,7 @@ body {
     display: flex;
     flex-direction: column;
     /* Generic project styles */
-    color: #3a3a3a;
+    color: #E9E9E9;
     font-family: 'Cormorant Garamond', sans-serif;
 }
 
@@ -25,4 +25,23 @@ header {
 main {
     /* Make main element take up any surplus space to push footer down */
     flex: 1 0 auto;
+}
+
+a {
+    color: #E9E9E9;
+
+    text-decoration: none;
+}
+.navbar {
+    margin: 0 5%;
+    font-size: 20px;
+    font-weight: 400;
+    color: #E9E9E9;
+    padding: 2% 19%;
+
+
+}
+
+.navbar a {
+    margin-right: 37px;
 }
