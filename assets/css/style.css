@@ -17,14 +17,18 @@ header {
     height: 100vh;
     z-index: 99;
     width: 100%;
-    background-image: url('../images/headerbg.png');
+    background-image: url('../images/headbackground.jpg');
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center center;
 }
 
 main {
     /* Make main element take up any surplus space to push footer down */
     flex: 1 0 auto;
+    background-color:  #2E2E34;
+    min-height: 100vw;
+    ;
 }
 
 h1, h2 {
@@ -38,8 +42,8 @@ a {
 }
 .navbar {
     margin: 0 5%;
-    font-size: 20px;
-    font-weight: 400;
+    font-size: 2.7em;
+    font-weight: 500;
     color: #E9E9E9;
     padding: 2% 19%;
 
@@ -47,32 +51,30 @@ a {
 }
 
 .navbar a {
-    margin-right: 37px;
+    margin-right: 50px;
 }
 
 .logo {
     text-align: center;
-    margin-top: 150px;
+    margin-top: 10%;
 
 }
 
 .logo > h1 {
     font-weight: 400;
-    font-size: 100px;
-    line-height: 75px;
+    font-size: 10em;
+    line-height: 128px;
     transition: font-size 0.3s;
 }
 
 .logo > p {
     font-weight: 400;
-    font-size: 30px;
-    line-height: 5px;
+    font-size: 4em;
+    line-height: 1em;
     
 }
 
-.logo > h1:hover {
-    font-size: 115px;
-}
+
 
 #menuhead {
     padding-top: 10px;
@@ -80,27 +82,132 @@ a {
     text-align: center;
     margin-top: 100px;
     font-weight: 400;
-    font-size: 32px;
-    border: 2px solid #fafafa;
-    width:250.33px;
-    height: 70.83px;
+    font-size: 4em;
+    border: 1px solid #6F5748;
+    width: 6em;
+    height: 2.3em;
     border-radius: 60%;
     transform: rotate(-10deg);
     
 }
 
 #menuhead > p {
-    line-height: 45px;
+    line-height: 1.7em;
     transform: rotate(10deg);
     font-weight: 600;
-    border: 2px solid #fafafa;
+    border: 1px solid #6F5748;
     border-radius: 50%;
 }
 
-.box-shadow:active {
-    box-shadow: 0 2px 4px rgba(255, 254, 254, 0.5);
+.active:active {
+
+
 }
 
+.botbor:hover {
+    color: #6F5748;
+}
+
+.shedule {
+    text-align: center;
+    margin: 2em auto;
+    max-height: 250px;
+    max-width: 65%;
+
+}
+
+.shedule > h1 {
+    margin-top: 1em;
+    text-align: center;
+    font-weight: 400;
+    font-size: 5em;
+    margin-bottom: 1em;
+}
+
+.menushed {
+    display: flex;
+    flex-wrap: wrap; /* Змінено на wrap, щоб дозволити перенесення елементів на новий рядок при необхідності */
+    justify-content: center; /* Вирівнюємо елементи по центру горизонтально */
+    align-items: center;
+    margin-top: 1em; /* Зменшено зовнішній відступ зверху */
+}
+
+.menushed > div {
+    flex-basis: 30%; /* Змінено на flex-basis для визначення ширини елементів */
+    margin-bottom: 1em; /* Зменшено зовнішній відступ знизу для відділення блоків */
+    text-align: center; /* Вирівнюємо текст в блоках по центру */
+}
+
+.menushed > div h3 {
+    font-size: 2.7em; /* Збільшено розмір тексту заголовка h3 */
+}
+
+.menushed > div p {
+    font-size: 2.3em; /* Збільшено розмір тексту параграфа */
+}
+
+.chefs {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.chefs > h1 {
+    margin-top: 1em;
+    text-align: center;
+    font-weight: 400;
+    font-size: 5em;
+    margin-bottom: 1em;
+}
+
+
+    /* Header */
+    @media screen and (max-width: 768px) {
+        #menuhead {
+            font-size: 2em;
+            width: 7em;
+            height: 2em;
+        }
+        
+        #menuhead > p {
+            line-height: 1.3em;
+        }
+
+
+        .navbar {
+            font-size: 1.1em;
+            line-height: 2em;
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            align-items: center;
+        }
+        .logo {
+            margin: auto; /* Центрувати .logo */
+        }
+    
+        .logo > h1 {
+            font-size: 2.3em;
+            line-height: 40px;
+        }
+        
+        .logo > p {
+            font-size: 1em;
+            line-height: 40px;
+        }
+    
+        .navbar a {
+            font-size: 1.1em; /* Опціонально: встановити розмір шрифту для пунктів меню */
+            line-height: 2em; /* Опціонально: встановити висоту рядка для пунктів меню */
+        }
+    }
+    
+
+
+
+@media screen and (min-width: 1200px) {   
+
+
+}
 
 
 
