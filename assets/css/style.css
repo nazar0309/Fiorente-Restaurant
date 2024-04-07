@@ -240,6 +240,61 @@ a {
     display: none;
 }
 
+/*Chefs Section*/
+
+.chefsphotos {
+    display: flex;
+    justify-content: center;
+}
+
+#chef1 {
+    background-image: url(../images/1chef.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: 90%;
+    width: 30%;
+}
+
+#chef2 {
+    background-image: url(../images/2chef.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: 95%;
+    width: 30%;
+}
+
+#chef3 {
+    background-image: url(../images/3chef.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: 100%;
+    width: 30%;
+}
+
+#chef4 {
+    background-image: url(../images/4chef.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: 95%;
+    width: 30%;
+}
+
+#chef5 {
+    background-image: url(../images/lastchef.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: 90%;
+    width: 30%;
+}
+
+#chefsquoute {
+
+}
     /* Header */
     @media screen and (max-width: 768px) {
 
@@ -298,13 +353,13 @@ a {
         }
     
         .logo > h1 {
-            font-size: 2.3em;
-            line-height: 40px;
+            font-size: 48px;
+            line-height: 41.57px;
         }
         
         .logo > p {
-            font-size: 1em;
-            line-height: 0;
+            font-size: 20px;
+            line-height: 18.44px;
         }
 
         header > h2 {
