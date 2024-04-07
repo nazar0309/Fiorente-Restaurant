@@ -37,11 +37,14 @@ main {
     flex: 1 0 auto;
     background-color:  #2E2E34;
     min-height: 100vw;
-    ;
 }
 
 footer {
-    height: 25vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 400;
+    height: 223px;
     background-color: #6F5748;
 }
 
@@ -56,34 +59,51 @@ footer {
 }
 .fotlogo > h2 {
     line-height: 1em;
-    font-weight: 400;
-    font-size: 7em;
+    font-size: 32px;
 }
 
 .fotlogo > p {
-    font-weight: 200;
-    font-size: 4em;
+    font-size: 16px;
     
 }
 
 .fotnav {
-    width: 90%;
-    margin: 3em auto;
+    width: 100%;
+    margin: 20px auto;
 }
 
 .fotnav li {
-    font-size: 4em;
-    font-weight: 200;
+    font-size: 16px;
     display: inline-block;
-    margin-right: 1em;
+    line-height: 19px;
+    margin-right: 2em;
 }
 
+.foticon {
+    width: 100%;
+    text-align: center;
+    margin: 0 auto;
+    font-size: 25px;
+}
+
+.fotp {
+    width: 100%;
+    text-align: center;
+    font-size: 10px;
+    line-height: 3em;
+    font-weight: 200;
+}
+
+.foticon i {
+    display: inline-block;
+    margin-right: 0.5em;
+}
 .navigation {
     text-align: center;
     position: absolute;
     width: 100%;
     top: 3%;
-    font-size: 5em;
+    font-size: 24px;
 }
 
 .navigation ul {
@@ -128,27 +148,30 @@ a {
 
 .logo > h1 {
     font-weight: 400;
-    font-size: 25em;
+    font-size: 128px;
     line-height: 0.8em;
 }
 
 .logo > p {
     font-weight: 400;
-    font-size: 7em;
+    font-size: 40px;
     line-height: 1em;
     
 } 
 
 
-
+.menuheadcontainer {
+    width: 100%;
+    margin-top: 75vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 #menuhead {
     text-align: center;
-    position: absolute;
-    top: 69vh; /* Положення відносно верхнього краю */
-    left: 43vw; /* Положення відносно лівого краю */
     padding-top: 10px;
     font-weight: 400;
-    font-size: 6em;
+    font-size: 32px;
     border: 1px solid #6F5748;
     width: 9em;
     height: 2.3em;
@@ -181,7 +204,7 @@ a {
     margin-top: 1em;
     text-align: center;
     font-weight: 400;
-    font-size: 9em;
+    font-size: 48px;
     margin-bottom: 1em;
 }
 
@@ -200,69 +223,18 @@ a {
 }
 
 .menushed > div h3 {
-    font-size: 6em;
-    line-height: 2em;
+    font-size: 24px;
+    line-height: 1.2em;
+    font-weight: 700;
 }
 
 .menushed > div p {
-    font-size: 6em; /* Збільшено розмір тексту параграфа */
-    font-weight: 250;
-}
-
-.chefs {
-    margin: 0 auto;
-    width: 90%;
-    margin-top: 12em;
-    border: 1 px white;
-}
-.chefdiv {
-    width: 100%;
-    height: 1000px;
-    border: 1px solid white;
-}
-.chefs > h1 {
+    font-size: 20px; /* Збільшено розмір тексту параграфа */
     font-weight: 300;
-    text-align: center;
-    font-size: 9em;
-
-}
-.chefdiv {
-    position: relative;
-}
-.chefdiv > div {
-    position: absolute;
-    height: 100%;
-    width: 33%;
-    background-size: cover;
-}
-.chefs > #chef1 {
-    position: absolute;
-    left: 0;
-}
-.chefs > #chef2 {
-    background-image: url(../images/2chef.jpg);
-}
-.chefs > #chef3 {
-    background-image: url(../images/3chef.jpg);
-}
-.chefs > #chef4 {
-    background-image: url(../images/4chef.jpg);
-}
-.chefs > #chef5 {
-    background-image: url(../images/lastchef.jpg);
-}
-.chefp {
-    font-weight: 300;
-    font-size: 5em;
-    margin: 4vh auto;
-    width: 45%;
-    height: 30vh;
+    line-height: 1.2em;
 }
 
-#paul {
-    line-height: 2em;
-    font-size: 1.2em;
-}
+
 
 #nav-toggle,.nav-toggle-label {
     display: none;
@@ -271,7 +243,6 @@ a {
     /* Header */
     @media screen and (max-width: 768px) {
 
-     
         #nav-toggle:checked~.logo   {
             display: none;
 
@@ -310,15 +281,13 @@ a {
         }
 
         #menuhead {
-            top: 75%;
-            left: 10%;
-            font-size: 2em;
-            width: 7em;
-            height: 2em;
+            font-size: 1em;
+            width: 10em;
+            height: 2.6em;
         }
         
         #menuhead > p {
-            line-height: 1.3em;
+            line-height: 1.1em;
         }
 
 
@@ -341,8 +310,33 @@ a {
         header > h2 {
             display: block;
         }
-    
-        
+    .shedule > h1 {
+        font-size: 24px;
+        font-weight: 400;
+    }
+
+    .menushed {
+        flex-direction: column;
+    }
+    .menushed div {
+        display: block;
+        width: 100%;
+        font-size: 14px;
+        line-height: 17px;
+    }
+    .menushed div > h3 {
+        font-weight: 700;
+    }
+
+
+    .menushed div > p {
+        font-weight: 300;
+    }
+     footer 
+     {
+        font-size: 1px;
+     }
+
     }
     
 
