@@ -189,13 +189,13 @@ a {
 }
 
 
+/* Shedule section*/
 
 
 
 .shedule {
     text-align: center;
-    margin: 2em auto;
-    max-height: 250px;
+    margin: 0 auto;
     max-width: 80%;
 
 }
@@ -244,7 +244,6 @@ a {
 .chefs {
     margin: 0 auto;
     width: 90%;
-    height: 643px;
 }
 
 .chefs > h1 {
@@ -258,6 +257,7 @@ a {
 .chefsphotos {
     display: flex;
     justify-content: center;
+    align-items: center;
     height: 282px;
 }
 
@@ -318,6 +318,7 @@ a {
 #paul {
     line-height: 40px;
     size: 24px;
+    font-weight: 600;
 }
 
 #reservation {
@@ -364,7 +365,7 @@ select {
     background-color: #2E2E34;
     border: 1px solid #E9E9E9;
     border-radius: 5px;
-    width: 24%;
+    width: 22%;
     height: 40px;
     font-size: 16px;
     font-weight: 400;
@@ -379,8 +380,9 @@ textarea {
     border: 1px solid #E9E9E9;
     border-radius: 5px;
     color: #BCBCBC;
-
 }
+
+
 
 
 button {
@@ -401,6 +403,9 @@ button {
     /* Header */
     @media screen and (max-width: 768px) {
 
+        .shedule {
+            margin-top: 20px; /* Зменшено відступ для секції shedule */
+        }
         #nav-toggle:checked~.logo   {
             display: none;
 
@@ -469,8 +474,11 @@ button {
         header > h2 {
             display: block;
         }
+        .shedule {
+            margin-top: 50px;
+        }
     .shedule > h1 {
-        font-size: 24px;
+        font-size: 30px;
         font-weight: 400;
     }
 
@@ -495,6 +503,52 @@ button {
      {
         font-size: 1px;
      }
+     .chefs {
+    margin: 0 auto;
+}
+
+.chefs > h1 {
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 34px;
+
+}
+.chefsphotos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 282px;
+}
+#chef2 {
+    width: 34%;
+}
+#chef3 {
+    width: 34%;
+
+}
+#chef4{
+    width: 34%;
+
+}
+#chef1 {
+    display: none;
+}
+
+#chef5 {
+    display: none;
+}
+
+#chefsquoute {
+    width: 100%;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 17px;
+
+}
+#paul {
+    line-height: 40px;
+    size: 24px;
+}
 
     }
     
