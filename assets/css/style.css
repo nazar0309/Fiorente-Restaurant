@@ -437,7 +437,7 @@ button {
 /*Menu Pege*/
 
 #mainmenu {
-    width: 90%;
+    width: 75%;
     margin: 30px auto;
 }
 .mainmenuheader {
@@ -448,6 +448,23 @@ button {
 .mainmenuheader h2 {
     font-weight: 400;
     font-size: 30px;
+}
+
+.dishes {
+    margin: 70px auto;
+    width: 100%;
+}
+
+.dishes div h3 {
+    margin: 40px 0;
+    font-weight: 600;
+    font-size: 36px;
+    text-align: center;
+}
+
+.dishes div p {
+    font-weight: 400;
+    font-size: 32px;
 }
 
 
@@ -662,6 +679,26 @@ button {
     }
 
 
+    /*Menu Page*/
+
+    .dishes {
+        margin: 20px 0;
+    }
+    .dishes div h3 {
+        font-size: 16px;
+        margin-bottom: 20px;
+
+    }
+
+    .dishes div p {
+        font-size: 12px;
+    }
+    .mainmenuheader h2 {
+        width: 40%;
+        font-size: 20px;
+    }
+
+   
 
 
 }
@@ -672,5 +709,3 @@ button {
 @media screen and (max-width: 992px) {}
 
 
-
-@media screen and (min-width: 1200px) {}
