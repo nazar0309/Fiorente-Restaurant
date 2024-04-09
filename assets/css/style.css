@@ -51,50 +51,51 @@ main {
 
 footer {
     display: flex;
-    align-items: center;
-    justify-content: center;
+    flex-direction: column;
     font-weight: 400;
     height: 223px;
     background-color: #6F5748;
 }
 
 .fotdiv {
-    width: 38%;
-    margin: 1% auto;
+    width: 60%;
+    margin: 0 auto;
 
 }
 
 .fotlogo {
     text-align: center;
+    margin-top: 26px;
 }
 
 .fotlogo>h2 {
-    line-height: 1em;
+    line-height: 27.72px;
     font-size: 32px;
 }
 
 .fotlogo>p {
     font-size: 16px;
+    line-height: 14.75px;
 
 }
 
-.fotnav {
+.fotnav  {
     width: 100%;
     margin: 20px auto;
+    text-align: center;
+   
 }
 
-.fotnav li {
-    font-size: 16px;
-    display: inline-block;
-    line-height: 19px;
-    margin-right: 2em;
+.fotnav a {
+   margin-right: 35px;
+   font-size: 16px;
+   line-height: 19px;
 }
+
 
 .foticon {
-    width: 100%;
     text-align: center;
-    margin: 0 auto;
-    font-size: 25px;
+    font-size: 30px;
 }
 
 .fotp {
@@ -433,6 +434,21 @@ button {
 
 }
 
+/*Menu Pege*/
+
+#mainmenu {
+    width: 90%;
+    margin: 30px auto;
+}
+.mainmenuheader {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.mainmenuheader h2 {
+    font-weight: 400;
+    font-size: 30px;
+}
 
 
 /* Header */
@@ -627,6 +643,26 @@ button {
         font-size: 14px;
     
     }
+
+    footer {
+        height: 237px;
+    }
+
+    .fotdiv {
+        width: 95%;
+
+    }
+    .fotnav a {
+        margin-right: 30px;
+        line-height: 30px;
+    }
+    .fotnav {
+
+        margin-bottom: 10;
+    }
+
+
+
 
 }
 
