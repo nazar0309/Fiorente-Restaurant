@@ -161,7 +161,7 @@ a {
 
 }
 
-.logo>h1 {
+.logo > h1 {
     font-weight: 400;
     font-size: 128px;
     line-height: 0.8em;
@@ -216,7 +216,7 @@ a {
 
 }
 
-#shedule>h1 {
+#shedule > h1 {
     margin-top: 1em;
     text-align: center;
     font-weight: 400;
@@ -250,7 +250,7 @@ a {
     font-weight: 700;
 }
 
-.menushed>div p {
+.menushed > div p {
     font-size: 20px;
     /* Збільшено розмір тексту параграфа */
     font-weight: 300;
@@ -442,10 +442,10 @@ button {
 }
 .mainmenuheader {
     width: 100%;
-    display: flex;
-    justify-content: space-between;
+    text-align: center;
 }
 .mainmenuheader h2 {
+    display: inline-block;
     font-weight: 400;
     font-size: 30px;
 }
@@ -472,33 +472,34 @@ button {
 @media screen and (max-width: 768px) {
 
 
-    #nav-toggle:checked~.logo {
+
+    .shedule {
+        margin-top: 20px; /* Зменшено відступ для секції shedule */
+    }
+    #nav-toggle:checked~.logo   {
         display: none;
 
     }
-
     #nav-toggle:checked~.navigation {
         display: block;
     }
-
+    
     #nav-toggle {
         position: absolute;
         top: 29px;
         right: 27px;
         display: none;
     }
-
+    
     .nav-toggle-label {
         position: absolute;
         top: 20px;
-        right: 20px;
+        right:20px;
         display: block;
     }
-
-    .nav-toggle-label>i {
+    .nav-toggle-label > i {
         font-size: 1.5em;
     }
-
     .navigation {
         display: none;
         position: relative;
@@ -636,6 +637,10 @@ button {
         width: 90%;
     }
 
+    #reservation > h1 {
+        font-size: 35px;
+    }
+
     input[type="text"] {
         font-size: 14px;
         width: 47%;
@@ -693,9 +698,12 @@ button {
     .dishes div p {
         font-size: 12px;
     }
+    .mainmenuheader {
+        text-align: center;
+        width: 100%;
+    }
     .mainmenuheader h2 {
-        width: 40%;
-        font-size: 20px;
+        font-size: 15px;
     }
 
    
@@ -706,6 +714,69 @@ button {
 
 
 
-@media screen and (max-width: 992px) {}
+@media screen and (min-width: 768px) and (max-width: 992px) {
+    
+
+    .navigation {
+        font-size: 18px;
+    }
+
+    .logo > h1 {
+        font-size: 90px;
+    }
+
+    .logo > p {
+        font-size: 30px;
+    }
+
+    #shedule > h1 {
+        font-size: 35px;
+    }
+
+    .menushed > div h3 {
+        font-size: 18px;
+    }
+
+    .menushed > div p {
+        font-size: 15px;
+    }
+
+    #chefs > h1 {
+        font-size: 35px;
+    }
+
+    #chefsquoute {
+        width: 70%;
+    }
+
+    #reservation > h1 {
+        font-size: 35px;
+    }
+
+    #reservation {
+        width: 80%;
+    }
+
+    .dishes div h3 {
+        font-size: 25px;
+        margin-bottom: 20px;
+
+    }
+
+    .dishes div p {
+        font-size: 20px;
+    }
+    
+    .mainmenuheader h2 {
+        width: 30%;
+        font-size: 22px;
+    }
+
+
+
+   
+
+    
+}
 
 
