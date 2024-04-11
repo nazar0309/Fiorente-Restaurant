@@ -47,7 +47,7 @@ header {
     background-position: center center;
 }
 
-header>h2 {
+header > h2 {
     display: none;
     position: absolute;
     top: 25px;
@@ -71,6 +71,10 @@ footer {
     background-color: #6F5748;
 }
 
+.pinkfot {
+    background-color: #c29689;
+}
+
 .fotdiv {
     width: 60%;
     margin: 0 auto;
@@ -82,12 +86,12 @@ footer {
     margin-top: 26px;
 }
 
-.fotlogo>h2 {
+.fotlogo > h2 {
     line-height: 27.72px;
     font-size: 32px;
 }
 
-.fotlogo>p {
+.fotlogo > p {
     font-size: 16px;
     line-height: 14.75px;
 
@@ -155,6 +159,9 @@ footer {
 }
 .navhov3 {
     color:#6F5748;
+}
+.navhov4:hover {
+    color: #c3978a;
 }
 
 
@@ -488,6 +495,66 @@ button {
     font-size: 32px;
 }
 
+/*About Us*/ 
+
+#history {
+    height: 60vh;
+    margin: 50px auto;
+    width: 90%;
+    display: flex;
+    gap: 30px;
+}
+#historyh1 {
+    text-align: center;
+    font-size: 48px;
+    font-weight: 400;
+    margin: 30px 0;
+}
+
+.history h1 {
+    text-align: center;
+    font-size: 48px;
+    font-weight: 400;
+
+}
+
+.histlogo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    height: 100%;
+    background-image: url(../images/historyphoto.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    box-shadow: 0 0 50px #d5b1a3;
+    border-radius: 5%;
+}
+
+.histlogo > h1 {
+    font-size: 48px;
+    font-weight: 400;
+
+}
+.histtext{
+    padding: 20px;
+    width: 50%;
+    height: 100%;
+    box-shadow: 0 0 50px #d5b1a3;
+    border-radius: 5%;
+}
+.histtext > h1 {
+    font-size: 35px;
+    font-weight: 400;
+    line-height: 35px;
+    margin-bottom: 20px;
+
+}
+
+.histtext > p {
+    font-size: 17px;
+}
 
 /* Header */
 @media screen and (max-width: 768px) {
