@@ -133,11 +133,18 @@ footer {
 
 .navhov:hover {
     color: #6F5748;
+
 }
 
-.navhov2:hover {
-    border-bottom: 1px solid #fafafa;
+.navhov2 {
+    border-bottom: 1px solid white;
 }
+.navhov3 {
+    color:#6F5748;
+}
+
+
+
 
 
 h1,
