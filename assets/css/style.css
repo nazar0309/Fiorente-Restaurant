@@ -560,7 +560,7 @@ button {
 }
 #location {
     width: 90%;
-    margin: 0 auto;
+    margin: 40px auto;
 }
 iframe {
     width: 100%;
@@ -573,7 +573,7 @@ iframe {
 #awards {
     width: 90%;
     gap: 20px;
-    height: 300px;
+    height: 400px;
     margin: 50px auto;
     display: flex;
 }
@@ -587,7 +587,7 @@ iframe {
 
 .award {
     box-shadow: 0 0 20px #d5b1a3;
-    width: 20%;
+    width: 25%;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -604,8 +604,24 @@ iframe {
 .award4 {
     background-image: url(../images/award14.jpg);
 }
-.award5 {
-    background-image: url(../images/award15.jpg);
+
+#kitchen {
+    width: 90%;
+    margin: 0 auto;
+}
+#kitchenh1 {
+    text-align: center;
+    font-size: 48px;
+    font-weight: 400;
+    margin: 30px 0;
+
+}
+#kitchenp {
+    text-align: center;
+    margin: 40px auto;
+    width: 90%;
+    font-size: 15px;
+    font-weight: 400;
 }
 /* Header */
 @media screen and (max-width: 768px) {
@@ -846,6 +862,54 @@ iframe {
     }
 
    
+    /*About Us section*/
+    #historyh1 {
+        font-size: 30px;
+    }
+    #history {
+        display: flex;
+        flex-direction: column;
+        height: 80vh;
+    }
+    .histlogo {
+        height: 50%;
+        width: 100%;
+    }
+    .histlogo h1 {
+        font-size: 30px;
+    }
+    .histtext {
+        height: 50%;
+        width: 100%;
+    }
+    .histtext h1 {
+        font-size: 18px;
+        line-height: 15px;
+    }
+    .histtext p {
+        font-size: 11px;
+    }
+    #awardsh1 {
+        font-size: 30px;
+    }
+    #awards {
+        height: 550px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .award {
+        width: 47%;
+    }
+
+    #kitchenh1 {
+        font-size: 30px;
+    }
+    #kitchenp {
+        font-size: 10px;
+    }
+    #locationh1 {
+        font-size: 30px;
+    }
 
 
 }
@@ -911,8 +975,44 @@ iframe {
         font-size: 22px;
     }
 
+    /*About Us section*/
+    #historyh1 {
+        font-size: 38px;
+    }
+ 
 
+    .histlogo h1 {
+        font-size: 38px;
+    }
+    
+    .histtext h1 {
+        font-size: 24px;
+        line-height: 25px;
+    }
+    .histtext p {
+        font-size: 15px;
+    }
+    #awardsh1 {
+        font-size: 38px;
+    }
+    #awards {
+        height: 700px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .award {
+        width: 47%;
+    }
 
+    #kitchenh1 {
+        font-size: 38px;
+    }
+    #kitchenp {
+        font-size: 15px;
+    }
+    #locationh1 {
+        font-size: 38px;
+    }
    
 
     
