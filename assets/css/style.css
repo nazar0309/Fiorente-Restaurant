@@ -223,6 +223,26 @@ a {
     transform: rotate(-10deg);
 
 }
+#abmenuhead {
+    text-align: center;
+    padding-top: 10px;
+    font-weight: 400;
+    font-size: 32px;
+    border: 1px solid #c29689;
+    width: 9em;
+    height: 2.3em;
+    border-radius: 60%;
+    transform: rotate(-10deg);
+
+}
+#abmenuhead>p {
+    line-height: 1.7em;
+    transform: rotate(10deg);
+    font-weight: 600;
+    border: 1px solid #c29689;
+    border-radius: 50%;
+}
+
 
 #menuhead>p {
     line-height: 1.7em;
@@ -462,10 +482,10 @@ button {
 
 }
 
-/*Menu Pege*/
+/*Menu Page*/
 
 #mainmenu {
-    width: 75%;
+    width: 100%;
     margin: 30px auto;
 }
 .mainmenuheader {
@@ -473,14 +493,15 @@ button {
     text-align: center;
 }
 .mainmenuheader h2 {
-    display: inline-block;
+    margin: 0 30px;
+    display: inline;
     font-weight: 400;
     font-size: 30px;
 }
 
 .dishes {
     margin: 70px auto;
-    width: 100%;
+    width: 75%;
 }
 
 .dishes div h3 {
@@ -677,7 +698,15 @@ iframe {
     }
 
     #menuhead>p {
-        line-height: 1.1em;
+        line-height: 1.3em;
+    }
+    #abmenuhead {
+        font-size: 1em;
+        width: 10em;
+        height: 2.6em;
+    }
+    #abmenuhead>p {
+        line-height: 1.3em;
     }
 
 
@@ -840,9 +869,10 @@ iframe {
 
 
     /*Menu Page*/
-
+    
     .dishes {
-        margin: 20px 0;
+        width: 70%;
+        margin: 20px auto;
     }
     .dishes div h3 {
         font-size: 16px;
@@ -854,11 +884,15 @@ iframe {
         font-size: 12px;
     }
     .mainmenuheader {
-        text-align: center;
-        width: 100%;
+       display: flex;
+       flex-wrap: wrap;
+       align-items: center;
+       justify-content: center;
     }
     .mainmenuheader h2 {
-        font-size: 15px;
+        font-size: 20px;
+        margin: 0 10px;
+        line-height: 30px;
     }
 
    
