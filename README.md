@@ -76,7 +76,7 @@ Font Awesome for the beautiful icons used throughout the website.
 Google Fonts for the elegant typography choices.
 Code Institute for valuable resources and learning materials.
 Contact
-Have questions or feedback? Feel free to contact us:
+Have questions or feedback? Feel free to contact  us:
 
 Email: contact@fiorenterestaurant.com
 Phone: +1 (123) 456-7890

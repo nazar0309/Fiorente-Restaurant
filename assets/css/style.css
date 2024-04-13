@@ -234,7 +234,7 @@ a {
     transform: rotate(-10deg);
 
 }
-#abmenuhead>p {
+#abmenuhead > a p {
     line-height: 1.7em;
     transform: rotate(10deg);
     font-weight: 600;
@@ -243,7 +243,7 @@ a {
 }
 
 
-#menuhead>p {
+#menuhead > a p {
     line-height: 1.7em;
     transform: rotate(10deg);
     font-weight: 600;
@@ -690,7 +690,7 @@ iframe {
         height: 2.6em;
     }
 
-    #menuhead>p {
+    #menuhead > a p {
         line-height: 1.3em;
     }
     #abmenuhead {
@@ -698,7 +698,7 @@ iframe {
         width: 10em;
         height: 2.6em;
     }
-    #abmenuhead>p {
+    #abmenuhead > a p {
         line-height: 1.3em;
     }
 
