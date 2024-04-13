@@ -7,7 +7,7 @@
 html {
     scroll-behavior: smooth;
 }
-
+/*Parent elements*/
 body {
     min-height: 100vh;
     display: flex;
@@ -26,7 +26,7 @@ header {
     background-size: cover;
     background-position: center center;
 }
-
+/*Backgrounds for different pages*/
 #menuheadbg {
     height: 100vh;
     z-index: 99;
@@ -46,7 +46,7 @@ header {
     background-size: cover;
     background-position: center center;
 }
-
+/*Header h2*/
 header > h2 {
     display: none;
     position: absolute;
@@ -57,7 +57,6 @@ header > h2 {
 }
 
 main {
-    /* Make main element take up any surplus space to push footer down */
     flex: 1 0 auto;
     background-color: #2E2E34;
     min-height: 100vw;
@@ -70,11 +69,11 @@ footer {
     height: 223px;
     background-color: #6F5748;
 }
-
+/*Footer for About Us page*/
 .pinkfot {
     background-color: #c29689;
 }
-
+/*Footer styling*/
 .fotdiv {
     width: 60%;
     margin: 0 auto;
@@ -128,7 +127,7 @@ footer {
     display: inline-block;
     margin-right: 0.5em;
 }
-
+/*Navigation*/
 .navigation {
     text-align: center;
     position: absolute;
@@ -148,7 +147,7 @@ footer {
     margin-right: 4.5%;
 
 }
-
+/*Hover and active links stylings*/
 .navhov:hover {
     color: #6F5748;
 
@@ -167,7 +166,7 @@ footer {
 
 
 
-
+/*Main headers logo styling*/
 h1,
 h2 {
     font-family: "Vollkorn SC", sans-serif;
@@ -202,7 +201,7 @@ a {
 
 }
 
-
+/*Menu button*/
 .menuheadcontainer {
     width: 100%;
     margin-top: 75vh;
@@ -275,24 +274,18 @@ a {
 .menushed {
     display: flex;
     flex-wrap: wrap;
-    /* Змінено на wrap, щоб дозволити перенесення елементів на новий рядок при необхідності */
     justify-content: center;
-    /* Вирівнюємо елементи по центру горизонтально */
     align-items: center;
     margin-top: 1em;
-    /* Зменшено зовнішній відступ зверху */
 }
 
-.menushed>div {
+.menushed > div {
     flex-basis: 30%;
-    /* Змінено на flex-basis для визначення ширини елементів */
     margin-bottom: 2em;
-    /* Зменшено зовнішній відступ знизу для відділення блоків */
     text-align: center;
-    /* Вирівнюємо текст в блоках по центру */
 }
 
-.menushed>div h3 {
+.menushed > div h3 {
     font-size: 24px;
     line-height: 1.2em;
     font-weight: 700;
@@ -300,7 +293,6 @@ a {
 
 .menushed > div p {
     font-size: 20px;
-    /* Збільшено розмір тексту параграфа */
     font-weight: 300;
     line-height: 1.2em;
 }
@@ -463,6 +455,7 @@ textarea {
     border: 1px solid #E9E9E9;
     border-radius: 5px;
     color: #BCBCBC;
+    padding: 5px;
 }
 
 
@@ -647,10 +640,10 @@ iframe {
 /* Header */
 @media screen and (max-width: 768px) {
 
-
+    /*Main page*/
 
     .shedule {
-        margin-top: 20px; /* Зменшено відступ для секції shedule */
+        margin-top: 20px; 
     }
     #nav-toggle:checked~.logo   {
         display: none;
@@ -713,7 +706,6 @@ iframe {
 
     .logo {
         margin: auto;
-        /* Центрувати .logo */
         top: 30%;
     }
 
@@ -896,7 +888,7 @@ iframe {
     }
 
    
-    /*About Us section*/
+    /*About Us Page*/
     #historyh1 {
         font-size: 30px;
     }
@@ -953,7 +945,7 @@ iframe {
 
 @media screen and (min-width: 768px) and (max-width: 992px) {
     
-
+    /*Main Page*/
     .navigation {
         font-size: 18px;
     }
@@ -1009,7 +1001,7 @@ iframe {
         font-size: 22px;
     }
 
-    /*About Us section*/
+    /*About Us Page*/
     #historyh1 {
         font-size: 38px;
     }
