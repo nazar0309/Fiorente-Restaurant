@@ -105,8 +105,16 @@ Additionally, Font Awesome has been integrated into the website to incorporate i
 
 ## Color Scheme
 
-The color scheme incorporates shades of brown, beige, and gold to evoke a sense of warmth, luxury, and sophistication.
+The main colors used throughout the website, along with their RGBA codes, are as follows:
 
+- **#2E2E34**: This dark gray color serves as the background for most sections of the website. Its RGBA code is `rgba(46, 46, 52, 1)`.
+<img src="/assets/images/Screenshot (24).png">
+
+- **#6F5748**: A warm brownish color used for accents, such as borders and certain text elements. Its RGBA code is `rgba(111, 87, 72, 1)`.
+<img src="/assets/images/Screenshot (25).png">
+- **#E9E9E9**: A light gray color used for text and other elements to provide contrast against the dark background. Its RGBA code is `rgba(233, 233, 233, 1)`.
+<img src="/assets/images/Screenshot (26).png">
+These colors are carefully chosen to create a cohesive and visually appealing design scheme.
 ## Features
 
 ### Navigation Menu
