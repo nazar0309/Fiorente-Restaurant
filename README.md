@@ -210,11 +210,22 @@ Difference between clone and fork: "Forking creates your own copy of a repositor
 
 
 
-### Validation
+## Validation
 
-## HTML validation via <a href="https://validator.w3.org/nu/">HTML-validator</a>
+### HTML validation via <a href="https://validator.w3.org/nu/">HTML-validator</a>
 
-### Responsiveness Test
+index.html:<br>
+<img src="/assets/images/Screenshot (41).png">
+menu.html:<br>
+<img src="/assets/images/Screenshot (42).png">
+aboutus.html:<br>
+<img src="/assets/images/Screenshot (43).png">
+
+### CSS validation via <a href="https://jigsaw.w3.org/css-validator/">HTML-validator</a>
+style.css:<br>
+<img src="/assets/images/Screenshot (44).png">
+
+## Responsiveness Test
 
 The website was tested on different devices and screen sizes to ensure a consistent and optimal user experience.
 

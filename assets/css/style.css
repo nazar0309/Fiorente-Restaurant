@@ -540,7 +540,7 @@ button {
     border-radius: 5%;
 }
 
-.histlogo > h1 {
+.histlogo > h2 {
     font-size: 48px;
     font-weight: 400;
 
@@ -552,7 +552,7 @@ button {
     box-shadow: 0 0 20px #d5b1a3;
     border-radius: 5%;
 }
-.histtext > h1 {
+.histtext > h2 {
     font-size: 35px;
     font-weight: 400;
     line-height: 35px;
