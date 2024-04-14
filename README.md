@@ -1,6 +1,6 @@
 # Fiorente Restaurant
 
-Welcome to Fiorente Restaurant's <a href="index.html">official website!</a>
+Welcome to Fiorente Restaurant's <a href="https://nazar0309.github.io/Fiorente-Restaurant/index.html">official website!</a>
 
 ![Fiorente Restaurant](/assets/images/Screenshot%20(15).png)
 
