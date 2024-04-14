@@ -122,37 +122,56 @@ These colors are carefully chosen to create a cohesive and visually appealing de
 ### Navigation Menu
 
 A responsive navigation menu allows users to easily navigate between different sections of the website.
+
+Burger-Icon nav-bar:
 <img src="/assets/images/Screenshot (27).png">
+Burger-Icon nav-bar with navigation links open:
 <img src="/assets/images/Screenshot (28).png">
+Expanded Nav-bar:
 <img src="/assets/images/Screenshot (29).png">
+
 
 ### Fiorente Restaurant Homepage
 
 The homepage features a stunning hero image, welcoming visitors to the restaurant and setting the tone for the dining experience.
+<img src="/assets/images/Screenshot (30).png">
+
 
 ### Menu
 
 The menu section showcases the restaurant's culinary offerings, including appetizers, entrees, desserts, and beverages.
+<img src="/assets/images/Screenshot (31).png">
+<img src="/assets/images/Screenshot (32).png">
+
 
 ### Working Hours
 
 This section provides information about the restaurant's operating hours for different menus.
+<img src="/assets/images/Screenshot (33).png">
+
 
 ### Chefs
 
 Profiles of the restaurant's chefs, highlighting their expertise and culinary specialties.
+<img src="/assets/images/Screenshot (34).png">
+
 
 ### Reservation
 
 An online reservation form allows users to book a table directly from the website.
+<img src="/assets/images/Screenshot (35).png">
 
 ### About Us
 
 Information about the history, philosophy, and values of Fiorente Restaurant.
+<img src="/assets/images/Screenshot (37).png">
+<img src="/assets/images/Screenshot (38).png">
+
 
 ### Contacts
 
 Contact details, including address, phone number, email, and social media links.
+<img src="/assets/images/Screenshot (36).png">
 
 ## Technologies Used
 
