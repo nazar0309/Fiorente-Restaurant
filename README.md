@@ -217,11 +217,11 @@ Difference between clone and fork: "Forking creates your own copy of a repositor
 index.html:<br>
 <img src="/assets/images/Screenshot (41).png">
 menu.html:<br>
-<img src="/assets/images/Screenshot (42).png">
+<img src="/assets/images/Screenshot (40).png">
 aboutus.html:<br>
 <img src="/assets/images/Screenshot (43).png">
 
-### CSS validation via <a href="https://jigsaw.w3.org/css-validator/">HTML-validator</a>
+### CSS validation via <a href="https://jigsaw.w3.org/css-validator/">CSS-validator</a>
 style.css:<br>
 <img src="/assets/images/Screenshot (44).png">
 
