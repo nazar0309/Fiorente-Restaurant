@@ -176,11 +176,11 @@ Contact details, including address, phone number, email, and social media links.
 
 # Technologies Used
 
-HTML5 - provides the content and structure for the website.<br>
-CSS - provides the styling.<br>
-Gitpod - used to host and edit the website.<br>
-Github - used to deploy the website.<br>
-Balsamiq - used to create the wireframes.<br>
+<a href="https://html.com/html5/">HTML5</a> - provides the content and structure for the website.<br>
+<a href="https://en.wikipedia.org/wiki/CSS">CSS - provides the styling.</a><br>
+<a href="https://code.visualstudio.com/">Visual Studio Code</a> - used to host and edit the website.<br>
+<a href="https://github.com/">Github</a> - used to deploy the website.<br>
+<a href="https://balsamiq.com/">Balsamiq</a> - used to create the wireframes.<br>
 
 # Testing
 
