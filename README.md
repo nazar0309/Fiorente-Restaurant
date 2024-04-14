@@ -1,7 +1,7 @@
 # Fiorente Restaurant
 
-Welcome to my homepage <a href="https://nazar0309.github.io/Fiorente-Restaurant/index.html"></a>.
-
+Welcome to my <a href="https://nazar0309.github.io/Fiorente-Restaurant/index.html">homepage</a>.git
+<img src="/assets/images/Screenshot (15).png">
 ## Contents
 
 - [Site Overview](#site-overview)
