@@ -184,7 +184,12 @@ Contact details, including address, phone number, email, and social media links.
 
 # Testing
 
-Various testing methods were employed to ensure the functionality, responsiveness, and compatibility of the website.
+Various testing methods were employed to ensure the functionality, responsiveness, and compatibility of the website.<br>
+First i faces variuos of issues with my code, but using additional sources I fixed it.<br>
+At the start, biggest mistake was that I was using em for font size. It caused a lot of issues with my code, mostly with responsive design.<br>
+Then my mentor Mitko recomended me to use absolute units of measurement for it. I tried pixels and the problem was solved.<br>
+Then I was wondering how to make 2 round lines around the menu link in the header. Using chat gpt 3, i have founded transform-rotate method and used it.
+
 
 # Deployment
 
