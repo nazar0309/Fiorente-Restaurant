@@ -243,17 +243,17 @@ Owning Cats website was tested on the following browsers with no visible issues 
 Appearance, functionality and responsiveness were consistent throughout for a range of device sizes and browsers.<br>
 
 
-## Credits
+# Credits
 
-The website's design, development, and content were created by [Your Name] and [Additional Contributors].
 
-### Honorable Mentions
-
-Special thanks to [Individuals/Groups] for their valuable contributions and support.
 
 ## General Reference
 
-For further information or inquiries, please contact [Your Name] at [Your Email Address].
+I created header similar way as we did in Love Running project. I have changed location of navigation, style and other little things.<br>
+For creating this readme, I have used example readme files from our group in Slack, where we have examples of first projects.<br>
+I used some help from YouTube tutorials as well.<br>
+For photos, I have used <a href="https://www.figma.com/">Figma</a> app for design.<br>
+Also I used to check <a href="https://www.behance.net/">Behance</a> website for inspiration and to choose topic for my first site.<br>
 
 ## Content
 
