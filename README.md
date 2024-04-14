@@ -83,15 +83,13 @@ The website consists of the following sections:
 
 ## Wireframes
 
-Desktop wireframes:
-<img src="/assets/images/Screenshot (15).png">
-<img src="/assets/images/Screenshot (16).png">
-<img src="/assets/images/Screenshot (17).png">
+<h3>Desktop wireframes:</h3>
+<img src="/assets/images/Screenshot (17).png"><img src="/assets/images/Screenshot (18).png"><img src="/assets/images/Screenshot (19).png">
 
-Mobile wireframes:
-<img src="/assets/images/Screenshot (18).png">
-<img src="/assets/images/Screenshot (19).png">
-<img src="/assets/images/Screenshot (20).png">
+
+<h3>Mobile wireframes:</h3>
+<img src="/assets/images/Screenshot (20).png"><img src="/assets/images/Screenshot (22).png"><img src="/assets/images/Screenshot (23).png">
+
 
 
 ## Typography
