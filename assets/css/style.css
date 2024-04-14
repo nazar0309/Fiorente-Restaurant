@@ -637,6 +637,10 @@ iframe {
     font-size: 15px;
     font-weight: 400;
 }
+
+.hided {
+    display: none;
+}
 /* Header */
 @media screen and (max-width: 767px) {
 

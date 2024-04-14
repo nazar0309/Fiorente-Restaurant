@@ -185,9 +185,9 @@ Contact details, including address, phone number, email, and social media links.
 # Testing
 
 Various testing methods were employed to ensure the functionality, responsiveness, and compatibility of the website.<br>
-First i faces variuos of issues with my code, but using additional sources I fixed it.<br>
-At the start, biggest mistake was that I was using em for font size. It caused a lot of issues with my code, mostly with responsive design.<br>
-Then my mentor Mitko recomended me to use absolute units of measurement for it. I tried pixels and the problem was solved.<br>
+ I have faced variuos of issues with my code, but I fixed it using additional sources.<br>
+At the start, the biggest mistake was that I was using em for font size. It caused a lots of issues with my code, mostly with responsive design.<br>
+Then my mentor Mitko reccomended me to use absolute units of measurement. I tried pixels and the problem was solved.<br>
 Then I was wondering how to make 2 round lines around the menu link in the header. Using chat gpt 3, i have founded transform-rotate method and used it.
 
 
@@ -212,7 +212,7 @@ Difference between clone and fork: "Forking creates your own copy of a repositor
 
 ### Validation
 
-The website's code was validated to ensure compliance with web standards and best practices.
+## HTML validation via <a href="https://validator.w3.org/nu/">HTML-validator</a>
 
 ### Responsiveness Test
 
