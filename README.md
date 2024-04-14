@@ -1,142 +1,113 @@
-# Fiorente Restaurant
 
-Welcome to Fiorente Restaurant's <a href="https://nazar0309.github.io/Fiorente-Restaurant/index.html">official website!</a>
-
-![Fiorente Restaurant](/assets/images/Screenshot%20(15).png)
-
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Credits](#credits)
-- [Contact](#contact)
-
-## Introduction
-
-Fiorente Restaurant is a renowned Italian luxury dining establishment located in Paris, offering an exquisite culinary experience amidst an elegant ambiance. Our website serves as a digital gateway for patrons to explore our menu, learn about our talented chefs, make reservations, and discover the rich history behind our restaurant.
-
-## Features
-
-### 1. Homepage
-- A visually captivating homepage featuring our restaurant's logo and stunning imagery of our dishes and dining environment.
-- Interactive navigation menu for easy access to different sections of the website.
-
-### 2. Menu
-- Explore our diverse menu offerings, including standard, special, and gourmet menus, each curated by our expert chefs to tantalize your taste buds.
-- Detailed descriptions and high-quality images of each dish, providing an immersive culinary experience.
-
-### 3. Working Hours
-- Check our operating hours for each menu type, ensuring you plan your visit accordingly and experience our culinary delights at the optimal time.
-
-### 4. Chefs
-- Meet our talented team of chefs, each with a unique culinary background and a passion for creating culinary masterpieces.
-- Learn about their culinary philosophies and the inspiration behind their signature dishes.
-
-### 5. Reservation
-- Convenient online reservation form allowing guests to book a table seamlessly.
-- Customizable reservation options, including selecting the number of guests and preferred dining time.
-
-### 6. Responsive Design
-- The website is optimized for various devices, ensuring a seamless browsing experience across desktops, tablets, and smartphones.
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/nazar0309/Fiorente-Restaurant.git
-Navigate to the project directory:
-bash
-Copy code
-cd Fiorente-Restaurant
-Open the index.html file in your web browser.
-Usage
-Explore the website by navigating through the different sections using the menu links.
-Make a reservation by filling out the reservation form in the Reservation section.
-Follow us on social media by clicking on the social media icons in the footer.
-Contributing
-We welcome contributions from the community to improve our website. If you'd like to contribute, please follow these steps:
-
-Fork the repository.
-Create a new branch: git checkout -b feature-new-feature
-Make your changes and commit them: git commit -m 'Add new feature'
-Push to the branch: git push origin feature-new-feature
-Submit a pull request.
-License
-This project is licensed under the MIT License.
-
-Credits
-Special thanks to the following individuals and resources that contributed to the development of this website:
-
-Unsplash for providing high-quality royalty-free images.
-Font Awesome for the beautiful icons used throughout the website.
-Google Fonts for the elegant typography choices.
-Code Institute for valuable resources and learning materials.
-Contact
-Have questions or feedback? Feel free to contact  us:
-
-Email: contact@fiorenterestaurant.com
-Phone: +1 (123) 456-7890
-Address: 123 Main Street, Paris, France
-vbnet
-Copy code
-
-Replace `link_to_image` with the actual link to an image of your Fiorente Restaurant. Feel free to further customize and enhance this README to better reflect the unique aspects of your restaurant and website!
-User
-create bigger readme
-ChatGPT
-Absolutely! Here's a more comprehensive README for your Fiorente Restaurant website:
-
-Fiorente Restaurant
-Welcome to the official website of Fiorente Restaurant! Explore our luxurious Italian dining experience, discover our exquisite menu, meet our talented chefs, and make reservations for an unforgettable culinary journey.
-
-
-Table of Contents
-Introduction
+Contents
+Site Overview
+Planning Stage
+Idea
+Site Aims
+Target Audience
+Site Goals
+How Will I Achieve My Goals
+Site Structure
+Wireframes
+Typography
+Color Scheme
 Features
+Navigation Menu
+Owning Cats Homepage
+Attributes
+Survey
+Footer
 Technologies Used
-Installation
-Usage
-Contributing
-License
+Testing
+Repository Problems
+Validation
+Responsiveness Test
+Lighthouse
+Browser Compatibility
+Deployment
 Credits
-Contact
-Introduction
-Fiorente Restaurant is a renowned fine dining establishment located in the heart of Paris. With a passion for Italian cuisine and a commitment to excellence, we offer a sophisticated culinary experience that delights the senses and captivates the palate. Our website serves as a digital gateway to our restaurant, providing visitors with a glimpse into our world of gastronomic indulgence.
+Honorable Mentions
+General Reference
+Content
 
+
+Fiorente Restaurant Website
+Site Overview
+The Fiorente Restaurant website is a digital platform designed to showcase the elegance, culinary excellence, and ambiance of the restaurant. It provides visitors with essential information about the menu, working hours, chefs, reservation options, and contact details. The website aims to create an immersive experience for users, enticing them to explore the restaurant's offerings and make reservations.
+
+Planning Stage
+Idea
+The idea behind the Fiorente Restaurant website is to provide an online representation of the restaurant that reflects its sophistication, cuisine, and service standards. It aims to attract potential customers, provide existing patrons with necessary information, and facilitate easy reservation bookings.
+
+Site Aims
+Showcase the restaurant's menu offerings, specialties, and ambiance.
+Provide detailed information about working hours and reservation options.
+Highlight the expertise and creativity of the chefs.
+Enable seamless reservation bookings for customers.
+Encourage user interaction and feedback through contact options.
+Target Audience
+The target audience includes:
+
+Food enthusiasts seeking fine dining experiences.
+Individuals planning special occasions or gatherings.
+Tourists looking for high-quality dining options in the area.
+Site Goals
+Capture the essence of the restaurant's ambiance and cuisine through visuals and descriptions.
+Engage users with enticing menu offerings and chef profiles.
+Facilitate easy reservation bookings for customers.
+Encourage user interaction and feedback through contact options.
+How will I Achieve My Goals
+To achieve the site goals, the website will:
+
+Curate high-quality images and descriptions to showcase the restaurant's menu and ambiance effectively.
+Design an intuitive and user-friendly interface for seamless navigation and reservation bookings.
+Highlight the expertise and culinary creations of the chefs to attract and retain customers.
+Provide multiple contact options for user inquiries and feedback.
+Site Structure
+Homepage: Introduces visitors to the restaurant and its key features.
+Menu: Displays the restaurant's menu offerings and specialties.
+Working Hours: Provides details about the restaurant's operating hours for different menu options.
+Chefs: Profiles the talented chefs behind the restaurant's culinary creations.
+Reservation: Allows users to book a table online for a hassle-free dining experience.
+Contacts: Provides contact details and a feedback form for customer inquiries and suggestions.
+Wireframes
+Wireframes have been created to visualize the layout and structure of each page on the website.
+
+Typography
+The typography chosen for the website emphasizes elegance and sophistication, with stylish serif fonts for headings and clear sans-serif fonts for body text.
+
+Color Scheme
+The color scheme incorporates warm and inviting tones such as gold, burgundy, and cream to evoke a luxurious dining atmosphere.
 
 Features
-1. Homepage
-A visually stunning homepage that showcases the elegance and charm of Fiorente Restaurant.
-Engaging content and captivating imagery that entice visitors to explore further.
-2. Menu
-Discover our diverse and mouthwatering menu options, featuring authentic Italian dishes prepared with the finest ingredients.
-Detailed descriptions and tantalizing images of each menu item, allowing guests to preview their culinary journey.
-3. Our Chefs
-Meet the masterminds behind the culinary creations at Fiorente Restaurant.
-Learn about our talented chefs' backgrounds, culinary philosophies, and signature dishes.
-4. Reservation
-Convenient online reservation system for guests to secure their table at Fiorente Restaurant.
-Flexible options for selecting the date, time, and number of guests, ensuring a seamless booking experience.
-5. Working Hours
-View our restaurant's operating hours and plan your visit accordingly.
-Stay informed about special hours for holidays or events.
-6. About Us
-Dive deeper into the history, vision, and values of Fiorente Restaurant.
-Learn about our commitment to culinary excellence, customer satisfaction, and community engagement.
-7. Contact Us
-Easily connect with us via email, phone, or in-person visit.
-Find our location on an interactive map and get directions to our restaurant.
-8. Responsive Design
-A fully responsive website that adapts seamlessly to desktops, tablets, and mobile devices.
-Ensures an optimal viewing and browsing experience for all visitors.
-
-
+Navigation Menu: Enables users to navigate seamlessly between different sections of the website.
+Menu Display: Showcases the restaurant's menu offerings with enticing images and descriptions.
+Chef Profiles: Highlights the culinary expertise and achievements of the restaurant's chefs.
+Reservation Form: Allows customers to make online reservations conveniently.
+Contact Information: Provides multiple contact options for user inquiries and feedback.
 Technologies Used
 HTML5
 CSS3
-Font Awesome
-Google Fonts
+JavaScript
+Bootstrap framework
+Testing
+Repository Problems
+Ensured proper repository setup and organization for efficient collaboration and version control.
+Validation
+Validated HTML and CSS code to ensure adherence to web standards and best practices.
+Responsiveness Test
+Tested website responsiveness on various devices and screen sizes to ensure optimal viewing experience.
+Lighthouse
+Conducted Lighthouse audits to identify and address performance, accessibility, and SEO issues.
+Browser Compatibility
+Checked website compatibility across different web browsers to ensure consistent rendering and functionality.
+Deployment
+The Fiorente Restaurant website has been deployed to GitHub Pages for public access.
+
+Credits
+Honorable Mentions
+Acknowledged contributors for their valuable feedback and contributions to the project.
+
+
+
+
