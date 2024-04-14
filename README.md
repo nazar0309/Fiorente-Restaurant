@@ -219,11 +219,13 @@ Lighthouse audits were conducted to assess performance, accessibility, best prac
 
 ### Browser Compatibility
 
-The website was tested on different web browsers to ensure compatibility and consistent rendering.
+Owning Cats website was tested on the following browsers with no visible issues for the user:
 
-## Deployment
+1.Google Chrome<br>
+2.Microsoft Edge<br>
+3.Mozilla Firefox<br>
+Appearance, functionality and responsiveness were consistent throughout for a range of device sizes and browsers.<br>
 
-The website was deployed using a web hosting service, making it accessible to users worldwide.
 
 ## Credits
 
@@ -239,4 +241,11 @@ For further information or inquiries, please contact [Your Name] at [Your Email 
 
 ## Content
 
-All content, including text, images, and multimedia, is the intellectual property of Fiorente Restaurant unless otherwise stated.
+Content
+Font came from <a href="https://fonts.google.com/">Google Fonts </a>.<br>
+Icons came from <a href="https://fontawesome.com/">Font Awesome</a>.<br>
+Colors were created with <a href="https://rgbacolorpicker.com/">rgbacolorpicker</a>.<br>
+The color palette was created with <a href="https://coolors.co/gradient-palette/ffffff-f5f5f5?number=2">Colors</a>.<br>
+For creating the wireframes, I used <a href="https://balsamiq.com/wireframes/">Balsamiq</a>.<br>
+For rezizing the images, I used the tool <a href="https://www.reduceimages.com/">Reduceimages</a>.<br>
+The responsive image was created with <a href="https://ui.dev/amiresponsive">Amiresponsive</a>.<br>
