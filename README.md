@@ -174,21 +174,36 @@ Information about the history, philosophy, and values of Fiorente Restaurant.
 Contact details, including address, phone number, email, and social media links.
 <img src="/assets/images/Screenshot (36).png">
 
-## Technologies Used
+# Technologies Used
 
-HTML5 - provides the content and structure for the website.
-CSS - provides the styling.
-Gitpod - used to host and edit the website.
-Github - used to deploy the website.
-Balsamiq - used to create the wireframes.
+HTML5 - provides the content and structure for the website.<br>
+CSS - provides the styling.<br>
+Gitpod - used to host and edit the website.<br>
+Github - used to deploy the website.<br>
+Balsamiq - used to create the wireframes.<br>
 
-## Testing
+# Testing
 
 Various testing methods were employed to ensure the functionality, responsiveness, and compatibility of the website.
 
-### Repository Problems
+# Deployment
 
-Any issues encountered during development and deployment were addressed and resolved promptly.
+The website was deployed on GitHub Pages following these steps:
+
+1.Go to GitHub, navigate through Repository/settings/pages.<br>
+2.Select "main branch" in the source tab and click save.<br>
+3.The page should look like this, which includes the webpages address:<br>
+
+<img src="/assets/images/Screenshot (39).png">
+
+Information on how to fork a project: Information on how to fork a project: <a src="https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo">Fork the project</a><br>
+
+Information on how to clone a project: <a src="https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository">Clone the project</a><br>
+
+
+Difference between clone and fork: "Forking creates your own copy of a repository in a remote location (for example, GitHub). Your own copy means that you will be able to contribute changes to your copy of the repository without affecting the original repository. Cloning makes a local copy of a repository, not your own copy." <a src="https://www.educative.io/answers/what-is-the-difference-between-forking-and-cloning-in-git">Full explanation</a><br>
+
+
 
 ### Validation
 
