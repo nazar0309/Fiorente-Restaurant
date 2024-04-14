@@ -196,12 +196,12 @@ The website was deployed on GitHub Pages following these steps:
 
 <img src="/assets/images/Screenshot (39).png">
 
-Information on how to fork a project: Information on how to fork a project: <a src="https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo">Fork the project</a><br>
+Information on how to fork a project: Information on how to fork a project: <a href="https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo">Fork the project</a><br>
 
-Information on how to clone a project: <a src="https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository">Clone the project</a><br>
+Information on how to clone a project: <a href="https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository">Clone the project</a><br>
 
 
-Difference between clone and fork: "Forking creates your own copy of a repository in a remote location (for example, GitHub). Your own copy means that you will be able to contribute changes to your copy of the repository without affecting the original repository. Cloning makes a local copy of a repository, not your own copy." <a src="https://www.educative.io/answers/what-is-the-difference-between-forking-and-cloning-in-git">Full explanation</a><br>
+Difference between clone and fork: "Forking creates your own copy of a repository in a remote location (for example, GitHub). Your own copy means that you will be able to contribute changes to your copy of the repository without affecting the original repository. Cloning makes a local copy of a repository, not your own copy." <a href="https://www.educative.io/answers/what-is-the-difference-between-forking-and-cloning-in-git">Full explanation</a><br>
 
 
 
