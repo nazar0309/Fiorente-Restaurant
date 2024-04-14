@@ -1,8 +1,8 @@
 # Fiorente Restaurant
 
-Welcome to Fiorente Restaurant's official website!
+Welcome to Fiorente Restaurant's <a href="index.html">official website!</a>
 
-![Fiorente Restaurant](link_to_image)
+![Fiorente Restaurant](/assets/images/Screenshot%20(15).png)
 
 ## Table of Contents
 
