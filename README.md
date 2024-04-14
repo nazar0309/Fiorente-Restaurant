@@ -92,9 +92,16 @@ The website consists of the following sections:
 
 
 
+
 ## Typography
 
-The typography chosen for Fiorente Restaurant emphasizes elegance and sophistication, with serif fonts used for headings and sans-serif fonts for body text.
+For this website, I have utilized the following fonts:
+
+- **Vollkorn SC**: This font is primarily used for headings and titles. It offers a sophisticated and elegant appearance, enhancing the overall aesthetic of the website.
+
+- **Cormorant Garamond**: This font is employed for body text and paragraphs. It provides readability and a classic feel to the content, ensuring a pleasant reading experience for users.
+
+Additionally, Font Awesome has been integrated into the website to incorporate icons and enhance visual elements.
 
 ## Color Scheme
 
