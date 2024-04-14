@@ -638,7 +638,7 @@ iframe {
     font-weight: 400;
 }
 /* Header */
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
 
     /*Main page*/
 
@@ -942,7 +942,7 @@ iframe {
 
 
 
-@media screen and (min-width: 768px) and (max-width: 992px) {
+@media screen and (min-width: 767px) and (max-width: 992px) {
     
     /*Main Page*/
     .navigation {
