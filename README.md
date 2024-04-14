@@ -115,20 +115,21 @@ The main colors used throughout the website, along with their RGBA codes, are as
 - **#E9E9E9**: A light gray color used for text and other elements to provide contrast against the dark background. Its RGBA code is `rgba(233, 233, 233, 1)`.
 <img src="/assets/images/Screenshot (26).png">
 These colors are carefully chosen to create a cohesive and visually appealing design scheme.
-## Features
 
-#Features 
+
+
+# Features 
 
 ### Navigation Menu
 
 A responsive navigation menu allows users to easily navigate between different sections of the website.
 
 Burger-Icon nav-bar:
-<img src="/assets/images/Screenshot (27).png">
+<img src="/assets/images/Screenshot (27).png"><br>
 Burger-Icon nav-bar with navigation links open:
-<img src="/assets/images/Screenshot (28).png">
+<img src="/assets/images/Screenshot (28).png"><br>
 Expanded Nav-bar:
-<img src="/assets/images/Screenshot (29).png">
+<img src="/assets/images/Screenshot (29).png"><br>
 
 
 ### Fiorente Restaurant Homepage
@@ -175,7 +176,11 @@ Contact details, including address, phone number, email, and social media links.
 
 ## Technologies Used
 
-The website was built using HTML, CSS, and JavaScript. Additional libraries and frameworks may have been used for specific functionalities.
+HTML5 - provides the content and structure for the website.
+CSS - provides the styling.
+Gitpod - used to host and edit the website.
+Github - used to deploy the website.
+Balsamiq - used to create the wireframes.
 
 ## Testing
 
