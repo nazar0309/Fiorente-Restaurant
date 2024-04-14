@@ -1,6 +1,7 @@
 # Fiorente Restaurant
 
-Welcome to my <a href="https://nazar0309.github.io/Fiorente-Restaurant/index.html">homepage</a>.git
+Welcome to my <a href="https://nazar0309.github.io/Fiorente-Restaurant/index.html">homepage</a>
+
 <img src="/assets/images/Screenshot (15).png">
 ## Contents
 
@@ -82,7 +83,16 @@ The website consists of the following sections:
 
 ## Wireframes
 
-Wireframes were created to visualize the layout and structure of each webpage before development.
+Desktop wireframes:
+<img src="/assets/images/Screenshot (15).png">
+<img src="/assets/images/Screenshot (16).png">
+<img src="/assets/images/Screenshot (17).png">
+
+Mobile wireframes:
+<img src="/assets/images/Screenshot (18).png">
+<img src="/assets/images/Screenshot (19).png">
+<img src="/assets/images/Screenshot (20).png">
+
 
 ## Typography
 
