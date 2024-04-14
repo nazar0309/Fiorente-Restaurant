@@ -117,9 +117,14 @@ The main colors used throughout the website, along with their RGBA codes, are as
 These colors are carefully chosen to create a cohesive and visually appealing design scheme.
 ## Features
 
+#Features 
+
 ### Navigation Menu
 
 A responsive navigation menu allows users to easily navigate between different sections of the website.
+<img src="/assets/images/Screenshot (27).png">
+<img src="/assets/images/Screenshot (28).png">
+<img src="/assets/images/Screenshot (29).png">
 
 ### Fiorente Restaurant Homepage
 
