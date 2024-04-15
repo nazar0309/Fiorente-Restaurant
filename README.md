@@ -229,6 +229,13 @@ style.css:<br>
 
 The website was tested on different devices and screen sizes to ensure a consistent and optimal user experience.
 
+|          | Galaxy Fold | Pixel 7 | iPhone 14 Pro Max | iPad Air | iPad Pro | Display <1200px | Display >1200px |
+|----------|-------------|---------|-------------------|----------|----------|-----------------|-----------------|
+| Render   | pass        | pass    | pass              | pass     | pass     | pass            | pass            |
+| Images   | pass        | pass    | pass              | pass     | pass     | pass            | pass            |
+| Links    | pass        | pass    | pass              | pass     | pass     | pass            | pass            |
+
+
 ### Lighthouse
 
 Lighthouse audits were conducted to assess performance, accessibility, best practices, and SEO.
