@@ -191,24 +191,6 @@ Then my mentor Mitko reccomended me to use absolute units of measurement. I trie
 Then I was wondering how to make 2 round lines around the menu link in the header. Using chat gpt 3, i have founded transform-rotate method and used it.
 
 
-# Deployment
-
-The website was deployed on GitHub Pages following these steps:
-
-1.Go to GitHub, navigate through Repository/settings/pages.<br>
-2.Select "main branch" in the source tab and click save.<br>
-3.The page should look like this, which includes the webpages address:<br>
-
-<img src="/assets/images/Screenshot (39).png">
-
-Information on how to fork a project: Information on how to fork a project: <a href="https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo">Fork the project</a><br>
-
-Information on how to clone a project: <a href="https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository">Clone the project</a><br>
-
-
-Difference between clone and fork: "Forking creates your own copy of a repository in a remote location (for example, GitHub). Your own copy means that you will be able to contribute changes to your copy of the repository without affecting the original repository. Cloning makes a local copy of a repository, not your own copy." <a href="https://www.educative.io/answers/what-is-the-difference-between-forking-and-cloning-in-git">Full explanation</a><br>
-
-
 
 ## Validation
 
@@ -236,11 +218,8 @@ The website was tested on different devices and screen sizes to ensure a consist
 | Links    | pass        | pass    | pass              | pass     | pass     | pass            | pass            |
 
 
-### Lighthouse
 
-Lighthouse audits were conducted to assess performance, accessibility, best practices, and SEO.
-
-### Browser Compatibility
+## Browser Compatibility
 
 Fiorente Restaurant website was tested on the following browsers with no visible issues for the user:
 
@@ -251,11 +230,29 @@ Fiorente Restaurant website was tested on the following browsers with no visible
 Appearance, functionality and responsiveness were consistent throughout for a range of device sizes and browsers.<br>
 
 
-# Credits
+
+# Deployment
+
+The website was deployed on GitHub Pages following these steps:
+
+1.Go to GitHub, navigate through Repository/settings/pages.<br>
+2.Select "main branch" in the source tab and click save.<br>
+3.The page should look like this, which includes the webpages address:<br>
+
+<img src="/assets/images/Screenshot (39).png">
+
+Information on how to fork a project: Information on how to fork a project: <a href="https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo">Fork the project</a><br>
+
+Information on how to clone a project: <a href="https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository">Clone the project</a><br>
+
+
+Difference between clone and fork: "Forking creates your own copy of a repository in a remote location (for example, GitHub). Your own copy means that you will be able to contribute changes to your copy of the repository without affecting the original repository. Cloning makes a local copy of a repository, not your own copy." <a href="https://www.educative.io/answers/what-is-the-difference-between-forking-and-cloning-in-git">Full explanation</a><br>
 
 
 
-## General Reference
+
+
+# General Reference
 
 I created header similar way as we did in Love Running project. I have changed location of navigation, style and other little things.<br>
 For creating this readme, I have used example readme files from our group in Slack, where we have examples of first projects.<br>
@@ -263,7 +260,7 @@ I used some help from YouTube tutorials as well.<br>
 For photos, I have used <a href="https://www.figma.com/">Figma</a> app for design.<br>
 Also I used to check <a href="https://www.behance.net/">Behance</a> website for inspiration and to choose topic for my first site.<br>
 
-## Content
+# Content
 
 Content
 Font came from <a href="https://fonts.google.com/">Google Fonts </a>.<br>
