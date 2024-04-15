@@ -235,11 +235,12 @@ Lighthouse audits were conducted to assess performance, accessibility, best prac
 
 ### Browser Compatibility
 
-Owning Cats website was tested on the following browsers with no visible issues for the user:
+Fiorente Restaurant website was tested on the following browsers with no visible issues for the user:
 
 1.Google Chrome<br>
 2.Microsoft Edge<br>
 3.Mozilla Firefox<br>
+
 Appearance, functionality and responsiveness were consistent throughout for a range of device sizes and browsers.<br>
 
 
