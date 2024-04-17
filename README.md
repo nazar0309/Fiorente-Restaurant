@@ -237,8 +237,9 @@ Appearance, functionality and responsiveness were consistent throughout for a ra
 
 
 
-# Deployment
+# Deployment and local development
 
+## How to deploy
 The website was deployed on GitHub Pages following these steps:
 
 1.Go to GitHub, navigate through Repository/settings/pages.<br>
@@ -247,8 +248,12 @@ The website was deployed on GitHub Pages following these steps:
 
 <img src="/assets/read_me_images/deployment_readme.png">
 
+
+## How to fork a project
 Information on how to fork a project: Information on how to fork a project: <a href="https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo">Fork the project</a><br>
 
+
+## How to clone a project
 Information on how to clone a project: <a href="https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository">Clone the project</a><br>
 
 
