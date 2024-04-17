@@ -3,7 +3,8 @@
 Welcome to my <a href="https://nazar0309.github.io/Fiorente-Restaurant/index.html">homepage</a>
 
 <img src="/assets/images/Screenshot (15).png">
-## Contents
+
+##  Contents
 
 - [Site Overview](#site-overview)
 - [Planning Stage](#planning-stage)
