@@ -194,7 +194,7 @@ Contact details, including address, phone number, email, and social media links.
 ## Manual testing
 
 Various testing methods were employed to ensure the functionality, responsiveness, and compatibility of the website.<br>
-Each page was texted manually to check if every refference in navigation highlights correct way.<br> Also I have checked if the reservation form is working and submition data to the server.<br> According the navigation, links transfer us to the correct path on each page.
+Each page was tested manually to check if every refference in navigation highlights correct way.<br> Also I have checked if the reservation form works and submits data to the server.<br> According to navigation, links transfer us to the correct path on each page.
 
 
 
@@ -229,6 +229,29 @@ The website was tested on different devices and screen sizes to ensure a consist
 | Render   | pass        | pass    | pass              | pass     | pass     | pass            | pass            |
 | Images   | pass        | pass    | pass              | pass     | pass     | pass            | pass            |
 | Links    | pass        | pass    | pass              | pass     | pass     | pass            | pass            |
+
+### Some photos from Responsiveness Testing
+
+Ipad Mini:
+<img scr="/assets/read_me_images/ipad_mini_test.png">
+
+Ipad Pro:
+<img scr="/assets/read_me_images/ipad_pro_test.png">
+
+Iphone 12 Pro:
+<img scr="/assets/read_me_images/iphone_12_pro_test.png">
+
+Iphone SE:
+<img scr="/assets/read_me_images/iphone_se_test.png">
+
+Laptop L:
+<img scr="/assets/read_me_images/laptop_L_test.png">
+
+2K Screens:
+<img scr="/assets/read_me_images/2k_screen_test.png">
+
+
+
 
 
 
