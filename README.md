@@ -2,7 +2,7 @@
 
 Welcome to my <a href="https://nazar0309.github.io/Fiorente-Restaurant/index.html">homepage</a>
 
-<img src="/assets/read_me_images/Screenshot (15).png">
+<img src="/assets/read_me_images/responsive_screens.png">
 
 ##  Contents
 
@@ -85,11 +85,11 @@ The website consists of the following sections:
 ## Wireframes
 
 <h3>Desktop wireframes:</h3>
-<img src="/assets/read_me_images/Screenshot (17).png"><img src="/assets/read_me_images/Screenshot (18).png"><img src="/assets/read_me_images/Screenshot (19).png">
+<img src="/assets/read_me_images/wireframe_1.png"><img src="/assets/read_me_images/wireframe_2.png"><img src="/assets/read_me_images/wireframe_3.png">
 
 
 <h3>Mobile wireframes:</h3>
-<img src="/assets/read_me_images/Screenshot (20).png"><img src="/assets/read_me_images/Screenshot (22).png"><img src="/assets/read_me_images/Screenshot (23).png">
+<img src="/assets/read_me_images/wireframe_4.png"><img src="/assets/read_me_images/wireframe_5.png"><img src="/assets/read_me_images/wireframe_6.png">
 
 
 
@@ -109,12 +109,12 @@ Additionally, Font Awesome has been integrated into the website to incorporate i
 The main colors used throughout the website, along with their RGBA codes, are as follows:
 
 - **#2E2E34**: This dark gray color serves as the background for most sections of the website. Its RGBA code is `rgba(46, 46, 52, 1)`.
-<img src="/assets/read_me_images/Screenshot (24).png">
+<img src="/assets/read_me_images/color_scheme_1.png">
 
 - **#6F5748**: A warm brownish color used for accents, such as borders and certain text elements. Its RGBA code is `rgba(111, 87, 72, 1)`.
-<img src="/assets/read_me_images/Screenshot (25).png">
+<img src="/assets/read_me_images/color_scheme_2.png">
 - **#E9E9E9**: A light gray color used for text and other elements to provide contrast against the dark background. Its RGBA code is `rgba(233, 233, 233, 1)`.
-<img src="/assets/read_me_images/Screenshot (26).png">
+<img src="/assets/read_me_images/color_scheme_3.png">
 These colors are carefully chosen to create a cohesive and visually appealing design scheme.
 
 
@@ -126,54 +126,54 @@ These colors are carefully chosen to create a cohesive and visually appealing de
 A responsive navigation menu allows users to easily navigate between different sections of the website.
 
 Burger-Icon nav-bar:
-<img src="/assets/read_me_images/Screenshot (27).png"><br>
+<img src="/assets/read_me_images/nav_bar_1.png"><br>
 Burger-Icon nav-bar with navigation links open:
-<img src="/assets/read_me_images/Screenshot (28).png"><br>
+<img src="/assets/read_me_images/nav_bar_2.png"><br>
 Expanded Nav-bar:
-<img src="/assets/read_me_images/Screenshot (29).png"><br>
+<img src="/assets/read_me_images/nav_bar_3.png"><br>
 
 
 ### Fiorente Restaurant Homepage
 
 The homepage features a stunning hero image, welcoming visitors to the restaurant and setting the tone for the dining experience.
-<img src="/assets/read_me_images/Screenshot (30).png">
+<img src="/assets/read_me_images/homepage_readme.png">
 
 
 ### Menu
 
 The menu section showcases the restaurant's culinary offerings, including appetizers, entrees, desserts, and beverages.
-<img src="/assets/read_me_images/Screenshot (31).png">
-<img src="/assets/read_me_images/Screenshot (32).png">
+<img src="/assets/read_me_images/menu_section_1.png">
+<img src="/assets/read_me_images/menu_section_2.png">
 
 
 ### Working Hours
 
 This section provides information about the restaurant's operating hours for different menus.
-<img src="/assets/read_me_images/Screenshot (33).png">
+<img src="/assets/read_me_images/working_hours.png">
 
 
 ### Chefs
 
 Profiles of the restaurant's chefs, highlighting their expertise and culinary specialties.
-<img src="/assets/read_me_images/Screenshot (34).png">
+<img src="/assets/read_me_images/chefs_readme.png">
 
 
 ### Reservation
 
 An online reservation form allows users to book a table directly from the website.
-<img src="/assets/read_me_images/Screenshot (35).png">
+<img src="/assets/read_me_images/reservation_readme.png">
 
 ### About Us
 
 Information about the history, philosophy, and values of Fiorente Restaurant.
-<img src="/assets/read_me_images/Screenshot (37).png">
-<img src="/assets/read_me_images/Screenshot (38).png">
+<img src="/assets/read_me_images/about_us_1.png">
+<img src="/assets/read_me_images/about_us_2.png">
 
 
 ### Contacts
 
 Contact details, including address, phone number, email, and social media links.
-<img src="/assets/read_me_images/Screenshot (36).png">
+<img src="/assets/read_me_images/contacts_readme.png">
 
 # Technologies Used
 
@@ -198,15 +198,15 @@ Then I was wondering how to make 2 round lines around the menu link in the heade
 ### HTML validation via <a href="https://validator.w3.org/nu/">HTML-validator</a>
 
 index.html:<br>
-<img src="/assets/read_me_images/Screenshot (41).png">
+<img src="/assets/read_me_images/validation_3.png">
 menu.html:<br>
-<img src="/assets/read_me_images/Screenshot (40).png">
+<img src="/assets/read_me_images/validation_2.png">
 aboutus.html:<br>
-<img src="/assets/read_me_images/Screenshot (43).png">
+<img src="/assets/read_me_images/validation_1.png">
 
 ### CSS validation via <a href="https://jigsaw.w3.org/css-validator/">CSS-validator</a>
 style.css:<br>
-<img src="/assets/read_me_images/Screenshot (44).png">
+<img src="/assets/read_me_images/css_validation.png">
 
 ## Responsiveness Test
 
@@ -240,7 +240,7 @@ The website was deployed on GitHub Pages following these steps:
 2.Select "main branch" in the source tab and click save.<br>
 3.The page should look like this, which includes the webpages address:<br>
 
-<img src="/assets/read_me_images/Screenshot (39).png">
+<img src="/assets/read_me_images/deployment_readme.png">
 
 Information on how to fork a project: Information on how to fork a project: <a href="https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo">Fork the project</a><br>
 
