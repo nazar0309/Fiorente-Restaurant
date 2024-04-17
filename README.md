@@ -2,7 +2,7 @@
 
 Welcome to my <a href="https://nazar0309.github.io/Fiorente-Restaurant/index.html">homepage</a>
 
-<img src="/assets/read_me_images/responsive_screens.png">
+<img src="/assets/read_me_images/resposive_screens.png">
 
 ##  Contents
 
