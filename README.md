@@ -144,6 +144,10 @@ The homepage features a stunning hero image, welcoming visitors to the restauran
 The menu section showcases the restaurant's culinary offerings, including appetizers, entrees, desserts, and beverages.
 <img src="/assets/read_me_images/menu_section_1.png">
 <img src="/assets/read_me_images/menu_section_2.png">
+<img src="/assets/read_me_images/menu_section_3.png">
+<img src="/assets/read_me_images/menu_section_4.png">
+
+
 
 
 ### Working Hours
