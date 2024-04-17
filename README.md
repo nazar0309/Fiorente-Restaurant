@@ -190,12 +190,19 @@ Contact details, including address, phone number, email, and social media links.
 
 # Testing
 
-Various testing methods were employed to ensure the functionality, responsiveness, and compatibility of the website.<br>
- I have faced variuos of issues with my code, but I fixed it using additional sources.<br>
-At the start, the biggest mistake was that I was using em for font size. It caused a lots of issues with my code, mostly with responsive design.<br>
-Then my mentor Mitko reccomended me to use absolute units of measurement. I tried pixels and the problem was solved.<br>
-Then I was wondering how to make 2 round lines around the menu link in the header. Using chat gpt 3, i have founded transform-rotate method and used it.
 
+## Manual testing
+
+Various testing methods were employed to ensure the functionality, responsiveness, and compatibility of the website.<br>
+Each page was texted manually to check if every refference in navigation highlights correct way.<br> Also I have checked if the reservation form is working and submition data to the server.<br> According the navigation, links transfer us to the correct path on each page.
+
+
+
+## Main issues
+
+One of th biggest mistake was that I was using em for font size. It caused lots of issues with my code, mostly with responsive design.<br>
+Then my mentor Mitko reccomended me to use absolute units of measurement. I tried pixels and the problem was solved.<br>
+Also I was wondering how to make 2 round lines around the menu link in the header. Using google chrome, i have founded transform-rotate method and used it.<br>
 
 
 ## Validation
@@ -222,6 +229,7 @@ The website was tested on different devices and screen sizes to ensure a consist
 | Render   | pass        | pass    | pass              | pass     | pass     | pass            | pass            |
 | Images   | pass        | pass    | pass              | pass     | pass     | pass            | pass            |
 | Links    | pass        | pass    | pass              | pass     | pass     | pass            | pass            |
+
 
 
 
@@ -271,7 +279,7 @@ I used some help from YouTube tutorials as well.<br>
 For photos, I have used <a href="https://www.figma.com/">Figma</a> app for design.<br>
 Also I used to check <a href="https://www.behance.net/">Behance</a> website for inspiration and to choose topic for my first site.<br>
 
-# Content
+# Credits
 
 Content
 Font came from <a href="https://fonts.google.com/">Google Fonts </a>.<br>
