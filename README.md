@@ -230,24 +230,24 @@ The website was tested on different devices and screen sizes to ensure a consist
 | Images   | pass        | pass    | pass              | pass     | pass     | pass            | pass            |
 | Links    | pass        | pass    | pass              | pass     | pass     | pass            | pass            |
 
-### Some photos from Responsiveness Testing
+### Photos from Responsiveness Testing
 
-Ipad Mini:
+Ipad Mini:<br>
 <img scr="/assets/read_me_images/ipad_mini_test.png">
 
-Ipad Pro:
+Ipad Pro:<br>
 <img scr="/assets/read_me_images/ipad_pro_test.png">
 
-Iphone 12 Pro:
+Iphone 12 Pro:<br>
 <img scr="/assets/read_me_images/iphone_12_pro_test.png">
 
-Iphone SE:
+Iphone SE:<br>
 <img scr="/assets/read_me_images/iphone_se_test.png">
 
-Laptop L:
+Laptop L:<br>
 <img scr="/assets/read_me_images/laptop_L_test.png">
 
-2K Screens:
+2K Screens:<br>
 <img scr="/assets/read_me_images/2k_screen_test.png">
 
 
