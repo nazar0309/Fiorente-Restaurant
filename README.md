@@ -233,22 +233,22 @@ The website was tested on different devices and screen sizes to ensure a consist
 ### Photos from Responsiveness Testing
 
 Ipad Mini:<br>
-<img scr="/assets/read_me_images/ipad_mini_test.png">
+<img src="/assets/read_me_images/ipad_mini_test.png">
 
 Ipad Pro:<br>
-<img scr="/assets/read_me_images/ipad_pro_test.png">
+<img src="/assets/read_me_images/ipad_pro_test.png">
 
 Iphone 12 Pro:<br>
-<img scr="/assets/read_me_images/iphone_12_pro_test.png">
+<img src="/assets/read_me_images/iphone_12_pro_test.png">
 
 Iphone SE:<br>
-<img scr="/assets/read_me_images/iphone_se_test.png">
+<img src="/assets/read_me_images/iphone_se_test.png">
 
 Laptop L:<br>
-<img scr="/assets/read_me_images/laptop_L_test.png">
+<img src="/assets/read_me_images/laptop_L_test.png">
 
 2K Screens:<br>
-<img scr="/assets/read_me_images/2k_screen_test.png">
+<img src="/assets/read_me_images/2k_screen_test.png">
 
 
 
