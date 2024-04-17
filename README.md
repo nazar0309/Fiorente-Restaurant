@@ -113,6 +113,7 @@ The main colors used throughout the website, along with their RGBA codes, are as
 
 - **#6F5748**: A warm brownish color used for accents, such as borders and certain text elements. Its RGBA code is `rgba(111, 87, 72, 1)`.
 <img src="/assets/read_me_images/color_scheme_2.png">
+
 - **#E9E9E9**: A light gray color used for text and other elements to provide contrast against the dark background. Its RGBA code is `rgba(233, 233, 233, 1)`.
 <img src="/assets/read_me_images/color_scheme_3.png">
 These colors are carefully chosen to create a cohesive and visually appealing design scheme.
